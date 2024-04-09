@@ -2,7 +2,8 @@
 
 require('dotenv').config();
 const express = require('express');
-const cors = require('cors');
+const cors  = require('cors');
+const mongoose = require('mongoose');
 
 mongoose.connect(process.env.DATABASE_URL);
 const db = mongoose.connection;
@@ -16,7 +17,7 @@ app.use(express.json());
 const PORT = process.env.PORT || 3001;
 
 const booksRouter = require('./routes/books');
-app.use('/books', booksRouter);//next step after connecting
+app.use('/books', booksRouter);
 
 app.get('/test', (request, response) => {
 

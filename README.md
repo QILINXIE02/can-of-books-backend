@@ -10,6 +10,59 @@ Books are life-changing. They have the power to enlighten, educate, entertain, h
 
 Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
 
+
+# Project Name
+
+**Author**: Qilin Xie and Ryan Potts
+**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+
+## Overview
+Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Can of Books API is the back end portion of Can of Books. It handles any database calls.
+
+## Getting Started
+Git 
+
+## Architecture
+JavaScript, Express, Cors, Dotenv, MongoDB
+
+## Change Log
+
+4/8/2024 1:30pm initalzies and clones backend anbd frontend repo template 
+2pm modifies and adds files for project setup
+3:30pm 
+
+## Estimates
+
+Time Estimates
+For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
+
+1. Name of feature: Storage
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 2:20p,
+
+Finish time: 3pm
+
+Actual time needed to complete: 40mins
+
+
+2. Name of feature: Book component
+
+Estimate of time needed to complete: 40 mins
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete: 
+
+
+## Credit and Collaborations
+
+
+
+
 # Collaboration Agreement
 
 ## Logistical
