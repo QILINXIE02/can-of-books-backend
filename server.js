@@ -8,7 +8,7 @@ const mongoose = require('mongoose');
 const app = express();
 
 // Connect to MongoDB database
-mongoose.connect(process.env.DATABASE_URL, { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect(process.env.DATABASE_URL);
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'Connection error:'));
 db.once('open', () => console.log('Connected to the database'));
