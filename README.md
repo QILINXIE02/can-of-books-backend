@@ -26,10 +26,12 @@ Git
 JavaScript, Express, Cors, Dotenv, MongoDB
 
 ## Change Log
-
+PST 
 4/8/2024 1:30pm initalzies and clones backend anbd frontend repo template 
 2pm modifies and adds files for project setup
-3:30pm 
+3:30pm ACP back end for deployment
+5:30pm ACP front end for deployment
+4/9/24 8:40 modifies database URL for front end and modified js files
 
 ## Estimates
 
@@ -51,16 +53,15 @@ Actual time needed to complete: 40mins
 
 Estimate of time needed to complete: 40 mins
 
-Start time:
+Start time: 3:45pm
 
-Finish time:
+Finish time: 5:00pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hr 15 mins
 
 
 ## Credit and Collaborations
-
-
+ChatGPT helped with this project.
 
 
 # Collaboration Agreement
