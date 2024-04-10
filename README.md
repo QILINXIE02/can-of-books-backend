@@ -25,23 +25,56 @@ Git
 ## Architecture
 JavaScript, Express, Cors, Dotenv, MongoDB
 
-## Change Log
-4/9
+## Accessibility lab 12: ![alt text](image-1.png)
 
-Qilin's log
-PST 
+## Change Log
+Qilin's log PST 
+4/9/24 8:40 modifies database URL for front end and modified js files
+4/9/24 11am fixes small bug on front end BestBooks.jsx
+3pm addes create and delete files for backend
+4pm worked on front end jsx files for create and delte files
+5:30pm last ACP for the day (unfixed bugs)
+4/10 10am fixes bugs(bakc end: port issues, front end app.jsx and AddBookForm.jsx implementation)
+updates readme
+
+
+Qilin's log PST 
 4/8/2024 1:30pm initalzies and clones backend anbd frontend repo template 
 2pm modifies and adds files for project setup
 3:30pm ACP back end for deployment
 5:30pm ACP front end for deployment
-4/9/24 8:40 modifies database URL for front end and modified js files
-4/9/24 11am fixes small bug on front end BestBooks.jsx
+
 
 ## Estimates
 
 Time Estimates
 For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
+
+lab 11
+
+1. Name of feature: Create
+
+Estimate of time needed to complete: 40 mins
+
+Start time: 12:30pm
+
+Finish time: 1:10
+
+Actual time needed to complete: 40mins
+
+
+2. Name of feature: Delete component
+
+Estimate of time needed to complete: 40 mins
+
+Start time: 2pm
+
+Finish time: 5:00pm
+
+Actual time needed to complete: probably 1 hr and half but it isnt rendering correctly on the site yet
+
+lab 10
 1. Name of feature: Storage
 
 Estimate of time needed to complete: 1 hr
@@ -63,11 +96,13 @@ Finish time: 5:00pm
 
 Actual time needed to complete: 1 hr 15 mins
 
-## Acessibiltiy scores: ![alt text](image.png)
+
+## Acessibiltiy scores:![alt text](image.png)
 
 
 ## Credit and Collaborations
 ChatGPT helped with this project.
+
 
 # Collaboration Agreement
 
