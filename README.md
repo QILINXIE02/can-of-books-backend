@@ -26,6 +26,8 @@ Git
 JavaScript, Express, Cors, Dotenv, MongoDB
 
 ## Change Log
+4/9
+
 Qilin's log
 PST 
 4/8/2024 1:30pm initalzies and clones backend anbd frontend repo template 
