@@ -28,6 +28,11 @@ JavaScript, Express, Cors, Dotenv, MongoDB
 ## Accessibility lab 12: ![alt text](image-1.png)
 
 ## Change Log
+Qilin's log PST
+4/10 1:13pm backend: adds update features(modifies books.js)
+front end: adds EditBookForm.jsx, updates app.jsx 
+
+
 Qilin's log PST 
 4/9/24 8:40 modifies database URL for front end and modified js files
 4/9/24 11am fixes small bug on front end BestBooks.jsx
@@ -49,6 +54,18 @@ Qilin's log PST
 
 Time Estimates
 For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
+
+lab 12
+
+1. Name of feature: Update
+
+Estimate of time needed to complete: 50 mins
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
 
 
 lab 11
