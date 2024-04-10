@@ -15,12 +15,12 @@ async function seed() {
       {
         title: 'Book 2',
         description: 'Book 2 description',
-        status: 'To Read'
+        status: 'Reading'
       },
       {
         title: 'Book 3',
         description: 'Book 3 description',
-        status: 'To Read'
+        status: 'Finished'
       }
     ];
 

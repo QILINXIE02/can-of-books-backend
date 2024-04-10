@@ -3,12 +3,16 @@ const mongoose = require('mongoose');
 const bookSchema = new mongoose.Schema({
   title: {
     type: String,
-    required: true
+    required: true, 
   },
-  description: String,
+  description: {
+    type: String,
+    required: false, 
+  },
   status: {
     type: String,
-    enum: ['To Read', 'Reading', 'Finished'],
+    enum: ['To Read', 'Reading', 'Finished'], 
+    required: true, 
   },
 });
 
