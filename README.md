@@ -26,12 +26,16 @@ Git
 JavaScript, Express, Cors, Dotenv, MongoDB
 
 ## Change Log
+4/9
+
+Qilin's log
 PST 
 4/8/2024 1:30pm initalzies and clones backend anbd frontend repo template 
 2pm modifies and adds files for project setup
 3:30pm ACP back end for deployment
 5:30pm ACP front end for deployment
 4/9/24 8:40 modifies database URL for front end and modified js files
+4/9/24 11am fixes small bug on front end BestBooks.jsx
 
 ## Estimates
 
@@ -59,10 +63,11 @@ Finish time: 5:00pm
 
 Actual time needed to complete: 1 hr 15 mins
 
+## Acessibiltiy scores: ![alt text](image.png)
+
 
 ## Credit and Collaborations
 ChatGPT helped with this project.
-
 
 # Collaboration Agreement
 
